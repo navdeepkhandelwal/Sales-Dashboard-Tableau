@@ -19,4 +19,4 @@ Includes dual-axis charts, forecasting, clustering, and word cloud visualization
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/navdeep.khandelwal/viz/Sales_Dashboard_Final_17622264403170/Dashboard1?publish=yes)
 
 ### 📅 Duration
-June 2024 – July 2024
+March 2024 – June 2024
